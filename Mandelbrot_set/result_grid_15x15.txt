@@ -1,0 +1,7 @@
+Range in x-axis : xmin = -2 ; xmax = 2
+Range in y-axis (img axis) : ymin = -1 ; ymax = 1
+Length in x-axis : 4
+Length in y-axis (img axis) : 2
+Number of grid points in x:15
+Number of grid points in y:15
+Area of mandlebrot is: 1.63556
