@@ -1,0 +1,29 @@
+From Rank : 4      count2 : 12692
+From Rank : 4      Time Taken for calculation : 0.526912 seconds
+
+From Rank : 1      count1 : 12481
+From Rank : 1      Time Taken for calculation : 0.563581 seconds
+
+From rank : 0 ::   Count1 received from rank : 1
+From Rank : 2      count2 : 62628
+From Rank : 2      Time Taken for calculation : 2.28357 seconds
+
+From rank : 0 ::   Count2 received from rank : 2
+From Rank : 3      count2 : 62980
+From Rank : 3      Time Taken for calculation : 2.36419 seconds
+
+From rank : 0 ::  Count3 received from rank : 3
+From rank : 0 ::   Count4 received from rank : 4
+
+From rank : 0
+Total Number of process : 5
+fraction of mandelbrot Set is 0.188476
+Area of Mandelbrot is 1.50781
+Range in x-axis (Real axis): xmin = -2 ; xmax = 2
+Range in y-axis (img axis) : ymin = -1 ; ymax = 1
+Length in x-axis : 4
+Length in y-axis (img axis) : 2
+Number of grid points in x:1000
+Number of grid points in y:800
+Area of mandlebrot is: 1.50781
+DONE !!!!
