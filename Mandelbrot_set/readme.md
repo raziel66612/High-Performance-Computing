@@ -1,4 +1,4 @@
-
+# Homework 1
 > Code for mandelbrot set is written in C++
 
 >  open and run `mandelbrot.cc` using `g++ mandelbrot.cc -o mandelbrot` on terminal to generate an object file and run the executable by `./mandelbrot` on terminal.
