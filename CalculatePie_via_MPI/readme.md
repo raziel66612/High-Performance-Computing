@@ -1,3 +1,4 @@
+# Homework 2
 ## Parallizing code to calculate pie by integrating inverse of tangent in limit 0 to 1
 > each of my code is written in C++
 
