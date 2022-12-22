@@ -1,3 +1,5 @@
+# Homework 3
+
 > Code is written in c
 > 
 > Firstly, run the make file using `make gsa` which would then generate one executable and one object file(.o)
