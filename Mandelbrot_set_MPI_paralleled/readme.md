@@ -1,4 +1,4 @@
-
+# Homework 2
 ## Parallelizing mandelbrot set using **MPI** (Message Passing interface)
 
 > all my code is written in c++.
